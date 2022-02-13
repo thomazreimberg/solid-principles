@@ -1,1 +1,2 @@
-# SOLID com C#: Princípios da programação orientada a objetos
+# Projeto para o curso de SOLID com CSharp
+
